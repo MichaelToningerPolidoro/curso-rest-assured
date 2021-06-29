@@ -1,6 +1,6 @@
 <h1 align="center">curso-rest-assured</h1>
 
-## <a name="indice">Índice</a>
+## <a name="indice">Índice</a> :link:
   - [1. Sobre o repositório](#sobre-repositorio)
   - [2. Tecnologias utilizadas](#tecnologias-utilizadas)
   - [3. Agradecimentos](#agradecimentos)
